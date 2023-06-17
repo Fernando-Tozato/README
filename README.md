@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Computer Science in college.<br>🤝 I’m looking for help in getting a job.<br>🌱 I’m currently learning OOP in Python.<br>💬 Ask me about my app, UrGrade.<br>⚡ Fun fact, I'm 18 :)
+🔭 I’m currently studying Computer Science in college.<br>🤝 I’m looking for help in getting a job.<br>🌱 I’m currently learning Data Science in Python.<br>💬 Ask me about my app, UrGrade.<br>⚡ Fun fact, I'm 19 :)
 
 
 ## 🌐 Socials:
